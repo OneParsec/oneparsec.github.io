@@ -2,7 +2,7 @@ Origin: OneParsec Repository
 Label: OneParsec Repo
 Suite: stable
 Version: 1.0
-Codename: optional
+Codename: cydia-ios
 Architectures: iphoneos-arm
 Components: main
 Description: OneParsec Cydia Repository
